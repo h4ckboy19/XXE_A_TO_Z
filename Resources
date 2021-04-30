@@ -1,0 +1,50 @@
+What is XML ?
+
+Youtube Vidoes:
+
+-https://www.youtube.com/playlist?list=PLhW3qG5bs-L9DloLUPwC3GdFimY5Ce_gS
+ 
+ Blogs:
+ 
+-https://www.tutorialspoint.com/xml/
+-https://www.w3schools.com/xml/
+-https://www.tutorialspoint.com/dtd/index.htm
+-https://www.xmlfiles.com/xml/
+
+XXE:
+
+-https://www.youtube.com/watch?v=gjm6VHZa_8s {Introduction}
+-https://www.youtube.com/watch?v=g2ey7ry8_CQ
+-https://www.youtube.com/watch?v=9ZokuRHo-eY
+
+Repo For learning XXE And Diferent Payloads:
+
+-https://github.com/HLOverflow/XXE-study
+-https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/XXE%20Injection
+-https://www.xml.com/pub/a/2002/07/31/xinclude.html
+
+Xincludes Attack:
+
+-https://www.xml.com/pub/a/2002/07/31/xinclude.html
+
+
+Labs:
+
+-https://portswigger.net/web-security/xxe
+
+Exploitation Demo Labs:
+
+-https://www.youtube.com/watch?v=mty1ayjHPYM
+
+Blogs:
+-https://shreyapohekar.com/blogs/xxe-simplified-the-concept-attacks-and-mitigations/
+-https://ismailtasdelen.medium.com/xml-external-entity-xxe-injection-payload-list-937d33e5e116
+-https://ismailtasdelen.medium.com/xml-external-entity-xxe-injection-payload-list-937d33e5e116
+-https://medium.com/@klose7/https-medium-com-klose7-xxe-attacks-part-1-xml-basics-6fa803da9f26
+-https://medium.com/@jonathanbouman/xxe-at-bol-com-7d331186de54
+-https://medium.com/@klose7/https-medium-com-klose7-xxe-attacks-part-1-xml-basics-6fa803da9f26
+
+POC Videos:
+
+-https://www.youtube.com/watch?v=1l9erhtZt00
+https://www.youtube.com/watch?v=aSiIHKeN3ys
